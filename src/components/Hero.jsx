@@ -76,7 +76,7 @@ function Hero() {
 
             {/* Download CV */}
             <a
-              href="/Yann_Sovandet_CV.pdf"
+              href="/Yann Sovandet_CV.pdf"
               download
               className="bg-cyan-500 hover:bg-cyan-600 px-6 sm:px-8 py-4 rounded-2xl font-semibold text-white transition duration-300 shadow-lg shadow-cyan-500/20 hover:scale-105 text-center"
             >
