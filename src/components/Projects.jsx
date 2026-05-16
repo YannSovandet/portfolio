@@ -3,17 +3,17 @@ import { motion } from "framer-motion";
 const projects = [
   {
     title: "Sneaker Ecommerce App",
-    description: "Flutter ecommerce app with Laravel API.",
+    description: "Flutter ecommerce app with clean UI",
     image: "/homepage.jpg",
   },
   {
-    title: "Food Delivery App",
-    description: "Realtime food delivery application.",
+    title: "Phone Store App",
+    description: "Flutter Phone Store Application",
     image: "/phone_project.jpg",
   },
   {
-    title: "Chat App",
-    description: "Firebase realtime messaging app.",
+    title: "POS App",
+    description: "Flutter POS system Application",
     image: "/pos_project.jpg",
   },
 ];
